@@ -1,0 +1,6 @@
+tldextract
+beautifulsoup4==4.12.2
+requests==2.31.0
+pandas==2.1.1
+openpyxl==3.1.2
+lxml==4.9.

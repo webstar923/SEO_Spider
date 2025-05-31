@@ -1,0 +1,13 @@
+{
+    "api_key": "bJdnuw8+NCbuoZyC0WuUOw==ormXjXrUwLUlRyw",
+    "crawl_delay": 0.5,
+    "max_depth": 3,
+    "crawl_resources": {
+        "images": true,
+        "documents": true,
+        "stylesheets": true,
+        "scripts": true,
+        "media": true,
+        "archives": true
+    }
+}
